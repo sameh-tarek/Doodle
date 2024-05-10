@@ -57,7 +57,7 @@ Follow the steps below to get the project up and running on your local machine:
    Open a terminal and run the following git command:
 
    ```bash
-   git clone https://github.com/yousofkortam/Doodle.git
+   git clone https://github.com/sameh-tarek/Doodle.git
     ```
    
 2. **Open the project in your IDE**
